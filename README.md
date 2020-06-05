@@ -1,1 +1,1 @@
-# wordpress-hide-admin-bar
+Wordpress plugin to hide the admin bar for non-admin users.
