@@ -1,0 +1,1 @@
+# wordpress-hide-admin-bar
